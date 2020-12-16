@@ -1,0 +1,1 @@
+This code extracts useful info from wikidata dump.
